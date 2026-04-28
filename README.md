@@ -8,6 +8,7 @@
 4. 4522210110 - Libryan Isra Gunawan
 5. 4522210118 - Mochamad Zaidan Al Rasyid
 
+##
 ## Topik
 ### Alasan memilih topik
 Topik ini dipilih karena usaha kantin kampus masih menggunakan sistem manual dalam proses pemesanan dan pembayaran. Hal ini menyebabkan beberapa kendala, terutama saat kondisi ramai pembeli, seperti antrean panjang, kesalahan pencatatan pesanan, dan keterlambatan pelayanan.
