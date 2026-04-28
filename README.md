@@ -27,3 +27,5 @@ Topik ini juga relevan dengan perkembangan teknologi digital, khususnya penerapa
 - Nama Usaha: Kanrek (Kantin Rektorat)
 - Narasumber: Mba Yuni
 - Lokasi: Lingkungan Kampus (Kantin Rektorat)
+
+##
