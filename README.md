@@ -17,11 +17,15 @@ Selain itu, berdasarkan hasil wawancara, pemilik usaha mengalami kesulitan dalam
 
 Topik ini juga relevan dengan perkembangan teknologi digital, khususnya penerapan QR Code untuk meningkatkan kualitas layanan usaha kecil.
 
+---
+
 ### Tujuan Wawancara
 1. Mengidentifikasi proses bisnis yang sedang berjalan pada usaha kantin.
 2. Mengetahui kendala atau permasalahan yang dihadapi oleh pemilik usaha.
 3. Menggali kebutuhan sistem yang dapat membantu meningkatkan efisiensi operasional.
 4. Menjadi dasar dalam merancang solusi sistem informasi yang sesuai dengan kondisi nyata di lapangan.
+
+---
 
 ### Destinasi Wawancara
 - Nama Usaha: Kanrek (Kantin Rektorat)
@@ -43,6 +47,8 @@ link : https://www.journal.itbriau.ac.id/index.php/dastis/article/view/31
     - Akurasi: Penurunan tingkat kesalahan pencatatan pesanan dari 12% menjadi hanya 2%.  
     - Usability: Mendapat skor System Usability Scale (SUS) sebesar 78,5 (Kategori Good/Baik).
 
+---
+
 ### 2. Jurnal Musytari: Efektivitas QRIS untuk Pedagang Kecil (2025)
 Jurnal ini menganalisis penggunaan QRIS dari sisi mahasiswa dan pedagang kecil di lingkungan kampus, yang sangat mirip dengan konteks penelitian di lingkungan kampus.  
 link : https://cibangsa.com/index.php/musytari/article/view/794
@@ -55,6 +61,8 @@ link : https://cibangsa.com/index.php/musytari/article/view/794
 
 > Perspektif Sosial: Teknologi ini dianggap sebagai sarana pemberdayaan ekonomi inklusif bagi pelaku usaha kecil.
 
+---
+
 ### 3. Jurnal Data Sains: Sistem QR Code Berbasis Visual Basic (2025)
 Penelitian ini mengembangkan sistem informasi pemesanan mandiri yang memungkinkan pelanggan memindai QR Code di meja menggunakan perangkat seluler.  
 link : https://jurnal.polgan.ac.id/index.php/jmp/article/view/15479
@@ -66,6 +74,8 @@ link : https://jurnal.polgan.ac.id/index.php/jmp/article/view/15479
 > ujuan Utama: Mengatasi kendala antrean panjang saat jam sibuk dan meminimalkan kesalahan komunikasi antara pelanggan dan pelayan.  
 
 > Hasil: Sistem mampu memberikan pengalaman pelanggan yang lebih baik dan meningkatkan efisiensi operasional usaha kuliner.
+
+---
 
 ### Kesimpulan
 Berdasarkan ketiga jurnal di atas, ada beberapa poin penting :
@@ -92,6 +102,22 @@ Berdasarkan ketiga jurnal di atas, ada beberapa poin penting :
 7. siapa saja nanti yang di izinkan untuk mengakses sistem tersebut?
 
 ##
+## Dokumentasi
+
+### Link Youtube hasil wawancara
+https://www.youtube.com/watch?v=mYgLWUBpW_4
+
+### Notulensi wawancara
+Narasumber : Mba Yuni (Kanrek)
+1. Berapa lama usaha berjalan? Sekitar 5 thn 
+2. Pelayanan apa saja yg ada? Makan berat (nasi rames,indomie), aneka gorengan, minuman, camilan
+3. Bagaimana untuk proses pemesanan disini? Untuk nasi rames biasanya prasmanan atau bisa ambil sendiri. Kalau untuk indomie, minuman es akan dilayani atau dibuatkan
+4. Kendala yg sering muncul? Kewalahan kalau sedang ramai pembeli karna mengelola usaha ini sendirian
+5. Cara mengatasi masalah nya? Dengan tetap tenang dan jangan panik serta banyak juga pembeli yang sudah biasa untuk membuat pesanan nya sendiri ketika ramai seperti contohnya minuman es
+6. Sistem apa yg bisa dikembangkan? Membuat scan QR Code menu sekaligus pembayaran di meja-meja kantin untuk mempermudah pesanan sekaligus pembayaran agar lebih terstruktur dalam pengurutan pelayanan serta pembayaran yang real-time
+7. Siapa saja yg bisa akses? Semua pembeli tanpa terkecuali 
+
+##
 ## Alur Bisnis
 ### Gambaran Alur Sistem Kerja Awal Cafe
 Sistem yang ada di kantin mba Yuni sekarang masih bersifat konvensional/manual dengan proses sebagai berikut:
@@ -104,6 +130,8 @@ Sistem yang ada di kantin mba Yuni sekarang masih bersifat konvensional/manual d
 7. Setelah selesai, pelanggan melakukan pembayaran langsung bisa cash bisa melalui QRIS.
 8. Penjual menghitung total secara manual.
 
+---
+
 ### Penjelasan Permasalahan Cafe
 Berdasarkan observasi dan wawancara dengan narasumber (Mba Yuni), ditemukan beberapa permasalahan utama:
 1. Overload saat kondisi ramai.
@@ -113,14 +141,19 @@ Berdasarkan observasi dan wawancara dengan narasumber (Mba Yuni), ditemukan bebe
 5. Keterlambatan pelayanan karena proses dilakukan satu per satu dan juga tidak ada sistem otomatisasi.
 6. Tidak ada monitoring transaksi pemilik jadi tidak bisa melihat jumlah pesanan dan total penjualan secara real-time
 
+---
+
 ### Solusi Yang Ditawarkan
 Dari permaslahan yang kami dengar dari narasumber solusi yang kami berikan yaitu digitalisasi sistem pemesanan dan pembayaran menggunakan QR Code
+
 ### Fitur Utama:
 1. QR Code di setiap meja (pelanggan scan menggunakan device HP nya masing masing, setelah itu langsung masuk ke menu digital).
 2. Menu digital interaktif (tersedia berbagai macam kategori makanan berat, minuman, snack dan juga pelanggan bisa memilih jumlah dan varian).
 3. Sistem pemesanan otomatis (pesanan masuk ke sistem dashboard penjual dan akan melakukan urutan otomatis menggunakan sistem FIFO).
 4. Pembayaran digital (bisa menggunakan e-wallet, QRIS, atau bayar di kasir tapi sudah tercatat).
 5. Dashboard Penjual (menampilkan daftar pesanan, status pesanan, total transaksi, stok barang).
+
+---
 
 ### Gambaran Rancangan Sistem Kerja Baru
 Setelah mendengarkan permasalahan dari narasumber dan kita memberi solusi terhadap permasalahan kantin tersebut, sekarang kita akan memberi alur sistem digital untuk kantin sebagai berikut:
@@ -135,18 +168,7 @@ Setelah mendengarkan permasalahan dari narasumber dan kita memberi solusi terhad
 9. Pelanggan melakukan pembayaran langsung menggunakan e-wallet atau QRIS atau cash dengan datang ke kasir.
 10. Pesanan selesai pelanggan bisa mengambil atau diantar pesanannya.
 
-### Link Youtube hasil wawancara
-https://www.youtube.com/watch?v=mYgLWUBpW_4
-### Notulensi wawancara
-Narasumber : mba yuni (kanrek)
-1. berapa lama usaha berjalan? sekitar 5 thn 
-2. pelayanan apa saja yg ada? makan berat(nasi rames,indomie), aneka gorengan,minuman,camilan
-3. bagaimana untuk proses pemesanan disini? untuk nasi rames biasa prasmanan/bisa ambil sendiri, untuk indomie,minuman es akan dilayani/bisa 
-4. kendala yg sering muncul? kewalahan kalau sedang ramai pembeli karna mengelola usaha ini sendirian
-5. cara mengatasi masalah nya? dengan tenang dan jangan panik dan juga banyak pembeli sudah biasa untuk membuat pesanan nya sendiri ketika ramai seperti minuman es 
-6. sistem apa yg bisa dikembangkan? membuat scan barcode menu sekaligus pembayaran di meja" kantin untuk mempermudah pesanan sekaligus pembayaran agar lebih terstruktur dalam pengurutan pelayanan serta pembayaran yang real time
-7. siapa saja yg bisa akses? semua pembeli tanpa terkecuali 
-
+##
 ## Use Case Diagram
 <img width="661" height="421" alt="Untitled Diagram drawio (6)" src="https://github.com/user-attachments/assets/408e8e34-0c1e-4e03-b8ed-3ee508f33be0" />
 
