@@ -67,6 +67,11 @@ link : https://jurnal.polgan.ac.id/index.php/jmp/article/view/15479
 
 > Hasil: Sistem mampu memberikan pengalaman pelanggan yang lebih baik dan meningkatkan efisiensi operasional usaha kuliner.
 
+### Kesimpulan
+Berdasarkan ketiga jurnal di atas, ada beberapa poin penting :
+    1. Validasi Masalah: Ketiga jurnal mengonfirmasi bahwa antrean panjang dan kesalahan pencatatan adalah masalah nyata yang efektif            diselesaikan dengan sistem digital.
+    2. Referensi Diagram: Jurnal 1 dan 3 secara spesifik menyebutkan penggunaan model Waterfall dan pembuatan Use Case Diagram sebagai           bagian dari perancangan sistem, yang bisa dijadikan acuan metodologi tugas.
+
 ##
 ## Pertanyaan Wawancara
 ### Alur Wawancara
