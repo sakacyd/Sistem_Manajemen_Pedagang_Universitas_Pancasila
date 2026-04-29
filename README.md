@@ -29,6 +29,21 @@ Topik ini juga relevan dengan perkembangan teknologi digital, khususnya penerapa
 - Lokasi: Lingkungan Kampus (Kantin Rektorat)
 
 ##
+## Pertanyaan Wawancara
+### Alur Wawancara
+### Bagian A (Profiling)
+1. sudah berapa lama usaha ini berjalan? dan apa saja layanan utama yang diberikan?
+### Bagian B (Analisis Proses Bisnis)
+2. bisa di ceritain bagaimana proses layanan, misal pemesanan makanan dari awal sampai selesai?
+3. siapa saja yang terlibat dalam proses ini?
+### Bagian C (Identifikasi Masalah)
+4. kendala apa saja yang sering muncul dalam menjalankan proses tersebut? (seperti saat catat pesanan atau stok habis atau kendala lain)
+5. bagaimana cara menangani masalah tersebut sekarang secara manual?
+### Bagian D (Solusi/Kebutuhan Sistem)
+6. jika kita membuat sistem kira kira fitur apa yang paling membantu buat masalah tersebut?
+7. siapa saja nanti yang di izinkan untuk mengakses sistem tersebut?
+
+##
 ## Alur Bisnis
 ### Gambaran Alur Sistem Kerja Awal Cafe
 Sistem yang ada di kantin mba Yuni sekarang masih bersifat konvensional/manual dengan proses sebagai berikut:
