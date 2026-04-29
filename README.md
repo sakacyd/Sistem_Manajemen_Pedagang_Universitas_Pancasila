@@ -101,30 +101,50 @@ Narasumber : mba yuni (kanrek)
 
 ### Use Case Diagram
 <img width="441" height="685" alt="use case diagram 3" src="https://github.com/user-attachments/assets/adb4cc2e-65dd-43f1-a126-95dbc307ef2f" />
-Penjelasan Use Case
-Pelanggan → melakukan pemesanan dan pembayaran
-Penjual → menerima dan menyiapkan pesanan
-- Use Case Pelanggan
-Scan QR Code
-Pelanggan memindai QR di meja untuk mengakses sistem.
-Pilih Makanan & Minuman
-Pelanggan memilih menu yang diinginkan.
-➝ include → Lihat Menu Digital
-Lihat Menu Digital
+# Penjelasan Use Case
+
+#### Aktor
+- **Pelanggan** → melakukan pemesanan dan pembayaran  
+- **Penjual** → menerima dan menyiapkan pesanan  
+
+---
+
+#### Use Case Pelanggan
+
+### 1. Scan QR Code
+Pelanggan memindai QR Code di meja untuk mengakses sistem.
+
+#### 2. Pilih Makanan & Minuman
+Pelanggan memilih menu yang diinginkan.  
+ *Include:* **Lihat Menu Digital**
+
+#### 3. Lihat Menu Digital
 Sistem menampilkan daftar menu beserta harga.
-Buat Pesanan
-Pelanggan melakukan pemesanan.
-➝ include → Dapat Nomor Antrian
-Dapat Nomor Antrian
-Sistem otomatis memberikan nomor antrian setelah pesanan dibuat.
-Lakukan Pembayaran
-Pelanggan membayar (QRIS / e-wallet / cash).
-Ambil Pesanan
+
+####  4. Buat Pesanan
+Pelanggan melakukan pemesanan.  
+ *Include:* **Dapat Nomor Antrian**
+
+#### 5. Dapat Nomor Antrian
+Sistem secara otomatis memberikan nomor antrian setelah pesanan dibuat.
+
+#### 6. Lakukan Pembayaran
+Pelanggan melakukan pembayaran menggunakan:
+- QRIS  
+- E-wallet  
+- Cash  
+
+#### 7. Ambil Pesanan
 Pelanggan mengambil pesanan setelah selesai disiapkan.
-- Use Case Penjual
-Terima Pesanan di Dashboard
-Penjual menerima pesanan dari sistem secara otomatis.
-➝ include → dari Buat Pesanan
-Siapkan Pesanan
-Penjual menyiapkan pesanan sesuai urutan antrian.
-➝ include dari Terima Pesanan
+
+---
+
+## Use Case Penjual
+
+#### 8. Terima Pesanan di Dashboard
+Penjual menerima pesanan dari sistem secara otomatis.  
+*Include:* dari **Buat Pesanan**
+
+#### 9. Siapkan Pesanan
+Penjual menyiapkan pesanan sesuai urutan antrian (FIFO).  
+*Include:* dari **Terima Pesanan di Dashboard**
