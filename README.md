@@ -86,3 +86,15 @@ Setelah mendengarkan permasalahan dari narasumber dan kita memberi solusi terhad
 8. Penjual menyiapkan pesanan sesuai urutan.
 9. Pelanggan melakukan pembayaran langsung menggunakan e-wallet atau QRIS atau cash dengan datang ke kasir.
 10. Pesanan selesai pelanggan bisa mengambil atau diantar pesanannya.
+
+### Link Youtube hasil wawancara
+https://www.youtube.com/watch?v=mYgLWUBpW_4
+### Notulensi wawancara
+Narasumber : mba yuni (kanrek)
+1. berapa lama usaha berjalan? sekitar 5 thn 
+2. pelayanan apa saja yg ada? makan berat(nasi rames,indomie), aneka gorengan,minuman,camilan
+3. bagaimana untuk proses pemesanan disini? untuk nasi rames biasa prasmanan/bisa ambil sendiri, untuk indomie,minuman es akan dilayani/bisa 
+4. kendala yg sering muncul? kewalahan kalau sedang ramai pembeli karna mengelola usaha ini sendirian
+5. cara mengatasi masalah nya? dengan tenang dan jangan panik dan juga banyak pembeli sudah biasa untuk membuat pesanan nya sendiri ketika ramai seperti minuman es 
+6. sistem apa yg bisa dikembangkan? membuat scan barcode menu sekaligus pembayaran di meja" kantin untuk mempermudah pesanan sekaligus pembayaran agar lebih terstruktur dalam pengurutan pelayanan serta pembayaran yang real time
+7. siapa saja yg bisa akses? semua pembeli tanpa terkecuali 
