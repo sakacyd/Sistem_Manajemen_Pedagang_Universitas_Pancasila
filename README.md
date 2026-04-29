@@ -98,3 +98,33 @@ Narasumber : mba yuni (kanrek)
 5. cara mengatasi masalah nya? dengan tenang dan jangan panik dan juga banyak pembeli sudah biasa untuk membuat pesanan nya sendiri ketika ramai seperti minuman es 
 6. sistem apa yg bisa dikembangkan? membuat scan barcode menu sekaligus pembayaran di meja" kantin untuk mempermudah pesanan sekaligus pembayaran agar lebih terstruktur dalam pengurutan pelayanan serta pembayaran yang real time
 7. siapa saja yg bisa akses? semua pembeli tanpa terkecuali 
+
+### Use Case Diagram
+<img width="441" height="685" alt="use case diagram 3" src="https://github.com/user-attachments/assets/adb4cc2e-65dd-43f1-a126-95dbc307ef2f" />
+Penjelasan Use Case
+Pelanggan → melakukan pemesanan dan pembayaran
+Penjual → menerima dan menyiapkan pesanan
+- Use Case Pelanggan
+Scan QR Code
+Pelanggan memindai QR di meja untuk mengakses sistem.
+Pilih Makanan & Minuman
+Pelanggan memilih menu yang diinginkan.
+➝ include → Lihat Menu Digital
+Lihat Menu Digital
+Sistem menampilkan daftar menu beserta harga.
+Buat Pesanan
+Pelanggan melakukan pemesanan.
+➝ include → Dapat Nomor Antrian
+Dapat Nomor Antrian
+Sistem otomatis memberikan nomor antrian setelah pesanan dibuat.
+Lakukan Pembayaran
+Pelanggan membayar (QRIS / e-wallet / cash).
+Ambil Pesanan
+Pelanggan mengambil pesanan setelah selesai disiapkan.
+- Use Case Penjual
+Terima Pesanan di Dashboard
+Penjual menerima pesanan dari sistem secara otomatis.
+➝ include → dari Buat Pesanan
+Siapkan Pesanan
+Penjual menyiapkan pesanan sesuai urutan antrian.
+➝ include dari Terima Pesanan
