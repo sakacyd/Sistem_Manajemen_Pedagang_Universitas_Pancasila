@@ -29,3 +29,45 @@ Topik ini juga relevan dengan perkembangan teknologi digital, khususnya penerapa
 - Lokasi: Lingkungan Kampus (Kantin Rektorat)
 
 ##
+## Alur Bisnis
+### Gambaran Alur Sistem Kerja Awal Cafe
+Sistem yang ada di kantin mba Yuni sekarang masih bersifat konvensional/manual dengan proses sebagai berikut:
+1. Pelanggan datang ke kantin.
+2. Melihat menu secara langsung (display atau bertanya ke penjual).
+3. Untuk menu Nasi Rames pelanggan bisa mengambil sendiri atau prasmanan.
+4. Untuk menu lain seperti indomie, minuman dingin, makanan ringan bisa langsung ke penjual.
+5. Penjual mencatat pesanan atau hanya mengingat pesanan yang sudah dipesan.
+6. Penjual menyiapkan pesanan satu per satu.
+7. Setelah selesai, pelanggan melakukan pembayaran langsung bisa cash bisa melalui QRIS.
+8. Penjual menghitung total secara manual.
+
+### Penjelasan Permasalahan Cafe
+Berdasarkan observasi dan wawancara dengan narasumber (Mba Yuni), ditemukan beberapa permasalahan utama:
+1. Overload saat kondisi ramai.
+2. Penjual mengelola semua proses sendirian (order, masak, bayar) Menyebabkan kewalahan dan penurunan kualitas pelayanan.
+3. Antrean Tidak Teratur, tidak ada sistem antrian digital, pelanggan bisa saling mendahului atau bingung urutan. 
+4. Kesalahan pencatatat pesanan mengandalkan ingatan/ manual menyebabkan rawan salah
+5. Keterlambatan pelayanan karena proses dilakukan satu per satu dan juga tidak ada sistem otomatisasi.
+6. Tidak ada monitoring transaksi pemilik jadi tidak bisa melihat jumlah pesanan dan total penjualan secara real-time
+
+### Solusi Yang Ditawarkan
+Dari permaslahan yang kami dengar dari narasumber solusi yang kami berikan yaitu digitalisasi sistem pemesanan dan pembayaran menggunakan QR Code
+### Fitur Utama:
+1. QR Code di setiap meja (pelanggan scan menggunakan device HP nya masing masing, setelah itu langsung masuk ke menu digital).
+2. Menu digital interaktif (tersedia berbagai macam kategori makanan berat, minuman, snack dan juga pelanggan bisa memilih jumlah dan varian).
+3. Sistem pemesanan otomatis (pesanan masuk ke sistem dashboard penjual dan akan melakukan urutan otomatis menggunakan sistem FIFO).
+4. Pembayaran digital (bisa menggunakan e-wallet, QRIS, atau bayar di kasir tapi sudah tercatat).
+5. Dashboard Penjual (menampilkan daftar pesanan, status pesanan, total transaksi, stok barang).
+
+### Gambaran Rancangan Sistem Kerja Baru
+Setelah mendengarkan permasalahan dari narasumber dan kita memberi solusi terhadap permasalahan kantin tersebut, sekarang kita akan memberi alur sistem digital untuk kantin sebagai berikut:
+1. Pelanggan datang dan duduk.
+2. Scan QR Code di meja.
+3. Sistem menampilkan menu digital.
+4. Pelanggan memilih makan dan minum.
+5. Pelanggan melakukan pemesanan.
+6. Sistem akan otomatis menyimpan pesanan dan memberi nomor antrian.
+7. Pesanan masuk ke dashboard penjual.
+8. Penjual menyiapkan pesanan sesuai urutan.
+9. Pelanggan melakukan pembayaran langsung menggunakan e-wallet atau QRIS atau cash dengan datang ke kasir.
+10. Pesanan selesai pelanggan bisa mengambil atau diantar pesanannya.
