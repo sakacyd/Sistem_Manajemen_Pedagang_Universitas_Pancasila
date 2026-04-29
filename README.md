@@ -109,7 +109,7 @@ Narasumber : mba yuni (kanrek)
 
 ---
 
-#### Use Case Pelanggan
+## Use Case Pelanggan
 
 ### 1. Scan QR Code
 Pelanggan memindai QR Code di meja untuk mengakses sistem.
