@@ -99,52 +99,41 @@ Narasumber : mba yuni (kanrek)
 6. sistem apa yg bisa dikembangkan? membuat scan barcode menu sekaligus pembayaran di meja" kantin untuk mempermudah pesanan sekaligus pembayaran agar lebih terstruktur dalam pengurutan pelayanan serta pembayaran yang real time
 7. siapa saja yg bisa akses? semua pembeli tanpa terkecuali 
 
-### Use Case Diagram
+## Use Case Diagram
+<img width="661" height="421" alt="Untitled Diagram drawio (6)" src="https://github.com/user-attachments/assets/408e8e34-0c1e-4e03-b8ed-3ee508f33be0" />
 
-# Penjelasan Use Case
+ Penjelasan Use Case
 
-#### Aktor
-- **Pelanggan** → melakukan pemesanan dan pembayaran  
-- **Penjual** → menerima dan menyiapkan pesanan  
-
----
-
-## Use Case Pelanggan
-
-### 1. Scan QR Code
-Pelanggan memindai QR Code di meja untuk mengakses sistem.
-
-#### 2. Pilih Makanan & Minuman
-Pelanggan memilih menu yang diinginkan.  
- *Include:* **Lihat Menu Digital**
-
-#### 3. Lihat Menu Digital
-Sistem menampilkan daftar menu beserta harga.
-
-####  4. Buat Pesanan
-Pelanggan melakukan pemesanan.  
- *Include:* **Dapat Nomor Antrian**
-
-#### 5. Dapat Nomor Antrian
-Sistem secara otomatis memberikan nomor antrian setelah pesanan dibuat.
-
-#### 6. Lakukan Pembayaran
-Pelanggan melakukan pembayaran menggunakan:
-- QRIS  
-- E-wallet  
-- Cash  
-
-#### 7. Ambil Pesanan
-Pelanggan mengambil pesanan setelah selesai disiapkan.
+###  Aktor
+- **Pelanggan**: melakukan pemesanan, pembayaran, dan mengambil pesanan  
+- **Penjual**: menerima dan menyiapkan pesanan  
 
 ---
 
-## Use Case Penjual
+### Use Case Pelanggan
+- Scan QR Code  
+  Pelanggan memindai QR Code untuk mengakses sistem.
 
-#### 8. Terima Pesanan di Dashboard
-Penjual menerima pesanan dari sistem secara otomatis.  
-*Include:* dari **Buat Pesanan**
+- Lihat Menu Digital
+  Sistem menampilkan daftar menu dan harga.
 
-#### 9. Siapkan Pesanan
-Penjual menyiapkan pesanan sesuai urutan antrian (FIFO).  
-*Include:* dari **Terima Pesanan di Dashboard**
+- Pilih Makanan & Minuman 
+  Pelanggan memilih menu yang diinginkan.
+
+- Buat Pesanan
+  Pelanggan membuat pesanan melalui sistem.
+
+- Dapatkan Nomor Antrian  
+  Sistem memberikan nomor antrian secara otomatis setelah pesanan dibuat.
+
+- Ambil Pesanan
+  Pelanggan mengambil pesanan setelah selesai disiapkan.
+
+---
+
+### Use Case Penjual
+- Terima Pesanan di Dashboard  
+  Penjual menerima pesanan dari sistem secara real-time.
+
+- Siapkan Pesanan
+  Penjual menyiapkan pesanan sesuai urutan antrian.
