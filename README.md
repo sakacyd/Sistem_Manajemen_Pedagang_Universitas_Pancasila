@@ -100,7 +100,7 @@ Narasumber : mba yuni (kanrek)
 7. siapa saja yg bisa akses? semua pembeli tanpa terkecuali 
 
 ### Use Case Diagram
-<img width="441" height="685" alt="use case diagram 3" src="https://github.com/user-attachments/assets/adb4cc2e-65dd-43f1-a126-95dbc307ef2f" />
+
 # Penjelasan Use Case
 
 #### Aktor
