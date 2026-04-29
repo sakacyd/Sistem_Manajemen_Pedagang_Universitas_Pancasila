@@ -69,8 +69,9 @@ link : https://jurnal.polgan.ac.id/index.php/jmp/article/view/15479
 
 ### Kesimpulan
 Berdasarkan ketiga jurnal di atas, ada beberapa poin penting :
-    1. Validasi Masalah: Ketiga jurnal mengonfirmasi bahwa antrean panjang dan kesalahan pencatatan adalah masalah nyata yang efektif            diselesaikan dengan sistem digital.
-    2. Referensi Diagram: Jurnal 1 dan 3 secara spesifik menyebutkan penggunaan model Waterfall dan pembuatan Use Case Diagram sebagai           bagian dari perancangan sistem, yang bisa dijadikan acuan metodologi tugas.
+> Validasi Masalah: Ketiga jurnal mengonfirmasi bahwa antrean panjang dan kesalahan pencatatan adalah masalah nyata yang efektif            diselesaikan dengan sistem digital.
+> Referensi Diagram: Jurnal 1 dan 3 secara spesifik menyebutkan penggunaan model Waterfall dan pembuatan Use Case Diagram sebagai           bagian dari perancangan sistem, yang bisa dijadikan acuan metodologi tugas.
+> Integrasi Pembayaran: Penambahan fitur e-wallet/QRIS terbukti meningkatkan kepuasan pelanggan (mahasiswa) dan memudahkan pembukuan        pedagang.
 
 ##
 ## Pertanyaan Wawancara
