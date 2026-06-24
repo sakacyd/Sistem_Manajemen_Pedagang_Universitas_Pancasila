@@ -47,5 +47,4 @@ Swimlane Pelanggan:
 
 14. Mengakhiri aktivitas (titik akhir / end).
 
-```markdown
-   ![Activity Diagram](https://github.com/sakacyd/Sistem_Manajemen_Pedagang_Universitas_Pancasila/blob/Activity-Diagram/ACTIVITY_DIAGRAM-APBO.png?raw=trueg)
+![Activity Diagram](ACTIVITY_DIAGRAM-APBO.png)
