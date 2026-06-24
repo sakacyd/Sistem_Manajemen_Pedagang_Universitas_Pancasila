@@ -282,3 +282,13 @@ Swimlane Pelanggan:
 
 <img width="650" height="857" alt="ACTIVITY_DIAGRAM-APBO" src="https://github.com/user-attachments/assets/838520c1-025d-4b0f-bc29-d039aa8d3591" />
 
+## state diagram
+
+state diagram pesanan 
+### State Diagram Pesanan
+
+State Diagram Pesanan menggambarkan perubahan status pesanan dalam sistem, mulai dari pesanan dibuat oleh pelanggan hingga pesanan selesai diambil. Proses dimulai dari **Pesanan Dibuat**, kemudian **Menunggu Konfirmasi**, dilanjutkan ke status **Diproses** saat penjual menyiapkan pesanan, kemudian **Siap Diambil** setelah pesanan selesai dibuat, dan berakhir pada status **Selesai** ketika pesanan telah diambil oleh pelanggan.
+
+<img width="1024" height="1536" alt="state diagram pesanan" src="https://github.com/user-attachments/assets/8d425b04-8d16-415a-9b85-affdf162e426" />
+
+
