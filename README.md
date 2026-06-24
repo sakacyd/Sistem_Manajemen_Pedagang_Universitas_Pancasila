@@ -280,4 +280,5 @@ Swimlane Pelanggan:
 
 14. Mengakhiri aktivitas (titik akhir / end).
 
-![Activity Diagram](ACTIVITY_DIAGRAM-APBO.png)
+<img width="650" height="857" alt="ACTIVITY_DIAGRAM-APBO" src="https://github.com/user-attachments/assets/838520c1-025d-4b0f-bc29-d039aa8d3591" />
+
