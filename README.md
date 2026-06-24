@@ -1,12 +1,23 @@
+<div align="center">
+
+# Laporan Tugas APBO
 # Sistem Manajemen Pedagang Universitas Pancasila
+
+<img src="assets/logo up (1).png" alt="Logo Universitas Pancasila" width="250">
+
 
 ## Kelompok 7
 ### Anggota Kelompok:
-1. 4521210009 - Muhammad Adyatma Widyadhana
-2. 4521210088 - Muhammad Yusuf Hadinata
-3. 4522210062 - Sakahayu Pribadi
-4. 4522210110 - Libryan Isra Gunawan
-5. 4522210118 - Mochamad Zaidan Al Rasyid
+
+| NPM | Nama |
+| :--: | :--: |
+| 4521210009 | Muhammad Adyatma Widyadhana |
+| 4521210088 | Muhammad Yusuf Hadinata |
+| 4522210062 | Sakahayu Pribadi |
+| 4522210110 | Libryan Isra Gunawan |
+| 4522210118 | Mochamad Zaidan Al Rasyid |
+
+<div align="left">
 
 ##
 ## Topik
