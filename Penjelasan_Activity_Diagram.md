@@ -16,14 +16,17 @@ Swimlane Sistem:
 
 Swimlane Pelanggan:
 5. Memilih makanan dan minuman.
+
 6. Melakukan pemesanan.
 
 Swimlane Sistem:
 7. Menyimpan pesanan otomatis dan memberi nomor antrian.
+
 8. Meneruskan pesanan ke dashboard penjual.
 
 Swimlane Penjual:
 9. Menerima pesanan masuk di dashboard.
+
 10. Menyiapkan pesanan sesuai urutan.
 
 Swimlane Pelanggan:
@@ -34,6 +37,8 @@ Swimlane Penjual:
 
 Swimlane Pelanggan:
 13. Mengambil pesanan atau menerima pesanan yang diantar.
+
 14. Mengakhiri aktivitas (titik akhir / end).
+15. 
 ```markdown
    ![Activity Diagram](ACTIVITY_DIAGRAM-APBO.png)
