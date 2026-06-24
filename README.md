@@ -193,7 +193,7 @@ Setelah mendengarkan permasalahan dari narasumber dan kita memberi solusi terhad
 
 ##
 ## Use Case Diagram
-<img width="661" height="421" alt="Untitled Diagram drawio (6)" src="https://github.com/user-attachments/assets/408e8e34-0c1e-4e03-b8ed-3ee508f33be0" />
+<img width="416" height="830" alt="Untitled Diagram drawio (7)" src="https://github.com/user-attachments/assets/f4f60bfe-6e9d-4972-9102-7efb1a1e5715" />
 
  Penjelasan Use Case
 
