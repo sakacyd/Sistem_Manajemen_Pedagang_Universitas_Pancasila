@@ -288,6 +288,6 @@ Swimlane Pelanggan:
 
 State Diagram Pesanan menggambarkan perubahan status pesanan dalam sistem, mulai dari pesanan dibuat oleh pelanggan hingga pesanan selesai diambil. Proses dimulai dari **Pesanan Dibuat**, kemudian **Menunggu Konfirmasi**, dilanjutkan ke status **Diproses** saat penjual menyiapkan pesanan, kemudian **Siap Diambil** setelah pesanan selesai dibuat, dan berakhir pada status **Selesai** ketika pesanan telah diambil oleh pelanggan.
 
-<img width="650" height="857" alt="state diagram pesanan" src="https://github.com/user-attachments/assets/8d425b04-8d16-415a-9b85-affdf162e426" />
+<img width="650" height="857" alt="image" src="https://github.com/user-attachments/assets/6c481fc6-8edd-48fd-8c2b-4737f56472bb" />
 
 
