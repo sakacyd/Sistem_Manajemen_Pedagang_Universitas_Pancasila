@@ -207,3 +207,26 @@ Setelah mendengarkan permasalahan dari narasumber dan kita memberi solusi terhad
 
 - Siapkan Pesanan
   Penjual menyiapkan pesanan sesuai urutan antrian.
+
+---
+### Sequence Diagram
+### 1.Sequence Diagram Scan QR Code dan Lihat Menu
+<img width="497" height="313" alt="Screenshot 2026-06-24 223947" src="https://github.com/user-attachments/assets/847f4167-67e9-4a8a-9062-7679cb727ff9" />
+
+### 2.Sequence Diagram Pilih Makanan dan Minuman
+<img width="458" height="301" alt="Screenshot 2026-06-24 224153" src="https://github.com/user-attachments/assets/3d1ffb65-5499-4bac-94f0-811ec73c68bb" />
+
+### 3.Sequence Diagram Membuat Pesanan
+<img width="606" height="327" alt="Screenshot 2026-06-24 224321" src="https://github.com/user-attachments/assets/85d56024-b3c5-4756-b3f1-40e61ee2f543" />
+
+### 4.Sequence Diagram Menerima Pesanan di Dashboard
+<img width="457" height="297" alt="image" src="https://github.com/user-attachments/assets/e52debd0-c1ff-4829-aae1-7e60eadbb540" />
+
+### 5.Sequence Diagram Menyiapkan Pesanan
+<img width="608" height="333" alt="image" src="https://github.com/user-attachments/assets/cfe94273-db0d-4fa5-b170-91eddd348a72" />
+
+### 6.Sequence Diagram Mendapatkan Nomor Antrian
+<img width="490" height="293" alt="image" src="https://github.com/user-attachments/assets/7f6f4fd3-f6fd-4ab5-a713-782218d422bc" />
+
+### 7.Sequence Diagram Ambil Pesanan
+<img width="628" height="386" alt="image" src="https://github.com/user-attachments/assets/984639f4-fa2a-40ee-8683-8d4e0048e65c" />
