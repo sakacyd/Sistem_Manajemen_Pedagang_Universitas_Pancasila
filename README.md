@@ -204,7 +204,7 @@ Setelah mendengarkan permasalahan dari narasumber dan kita memberi solusi terhad
 
 ##
 ## Use Case Diagram
-<img width="661" height="421" alt="Untitled Diagram drawio (6)" src="https://github.com/user-attachments/assets/408e8e34-0c1e-4e03-b8ed-3ee508f33be0" />
+<img width="416" height="830" alt="Untitled Diagram drawio (7)" src="https://github.com/user-attachments/assets/f4f60bfe-6e9d-4972-9102-7efb1a1e5715" />
 
  Penjelasan Use Case
 
@@ -315,4 +315,13 @@ Swimlane Pelanggan:
 14. Mengakhiri aktivitas (titik akhir / end).
 
 <img width="650" height="857" alt="ACTIVITY_DIAGRAM-APBO" src="https://github.com/user-attachments/assets/838520c1-025d-4b0f-bc29-d039aa8d3591" />
+
+## state diagram
+
+### State Diagram Pesanan
+
+State Diagram Pesanan menggambarkan perubahan status pesanan dalam sistem, mulai dari pesanan dibuat oleh pelanggan hingga pesanan selesai diambil. Proses dimulai dari **Pesanan Dibuat**, kemudian **Menunggu Konfirmasi**, dilanjutkan ke status **Diproses** saat penjual menyiapkan pesanan, kemudian **Siap Diambil** setelah pesanan selesai dibuat, dan berakhir pada status **Selesai** ketika pesanan telah diambil oleh pelanggan.
+
+<img width="416" height="830" alt="Screenshot 2026-06-25 015311" src="https://github.com/user-attachments/assets/94034470-f4c8-46e7-a870-6181603ab2d3" />
+
 
