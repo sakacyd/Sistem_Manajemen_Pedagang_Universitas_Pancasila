@@ -270,6 +270,7 @@ Berikut adalah rancangan Activity Diagram yang memvisualisasikan bagian Gambaran
 Agar alur kerja antara pihak yang terlibat terlihat jelas, diagram ini dibagi menjadi 3 swimlane (jalur aktor), yaitu: Pelanggan, Sistem, dan Penjual.
 ### Penjelasan Alur Sistem Kerja Baru:
 Penjelasan Alur Activity Diagram:
+
 Swimlane Pelanggan:
 
 1. Memulai aktivitas (titik awal / start).
