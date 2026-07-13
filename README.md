@@ -392,4 +392,29 @@ State Diagram Pesanan menggambarkan perubahan status pesanan dalam sistem, mulai
 
 <img width="416" height="830" alt="Screenshot 2026-06-25 015311" src="https://github.com/user-attachments/assets/94034470-f4c8-46e7-a870-6181603ab2d3" />
 
+##
+## Wireframe
 
+### Wireframe welcome page
+<img width="435" height="756" alt="image" src="https://github.com/user-attachments/assets/7075c087-6700-451f-839d-4537540c2d0f" />
+
+### Wireframe home page
+<img width="417" height="763" alt="image" src="https://github.com/user-attachments/assets/0df2ff05-c24d-4dda-a5a4-4cf21d1260ec" />
+
+### Wireframe Cart/Keranjang
+<img width="418" height="772" alt="image" src="https://github.com/user-attachments/assets/9ae7cc0b-23f6-45a9-acec-50528c112a96" />
+
+### Wireframe order status
+<img width="461" height="767" alt="image" src="https://github.com/user-attachments/assets/b40fb19e-34fe-462b-b5b4-624c0e0a17de" />
+
+### Wireframe Order Management
+<img width="1871" height="917" alt="image" src="https://github.com/user-attachments/assets/2d39610c-67dc-4291-a3fc-70dae8cc5c47" />
+
+### Wireframe Inventory Management
+<img width="1792" height="507" alt="image" src="https://github.com/user-attachments/assets/23be1dd1-6a4f-45ab-af1c-8ce368740396" />
+
+### Wireframe Laporan Harian
+<img width="1762" height="477" alt="image" src="https://github.com/user-attachments/assets/d0d0713a-0707-4f82-bbf6-920adfc7a27d" />
+
+### Wireframe Settings
+<img width="1781" height="558" alt="image" src="https://github.com/user-attachments/assets/c6b5ecb2-a05d-4d08-89fa-33654260ba79" />
