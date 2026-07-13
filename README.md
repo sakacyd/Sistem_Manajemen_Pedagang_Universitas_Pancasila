@@ -19,6 +19,10 @@
 
 <div align="left">
 
+# Laporan Hasil 
+## Link Presentasi Youtube :
+https://youtu.be/QHy_3O-tXAk?si=SQj-Lg1nhFUkswc7
+
 ##
 ## Topik
 ### Alasan memilih topik
